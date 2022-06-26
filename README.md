@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://google.com">boolstring</a></b>.
-    <br>I'm a Computer Engineering Undergraduate Student from Mexico.<br>
+    <br>I'm an undergraduate student in Software Engineering from Brazil.<br>
 
 </samp>
 
