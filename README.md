@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://google.com">boolstring</a></b>.
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://google.com">Vitor</a></b>.
     <br>I'm an undergraduate student in Software Engineering from Brazil.<br>
 
 </samp>
@@ -24,7 +24,7 @@
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
   &nbsp; 
   &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/boolstring">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/vtx7bb">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/twitter.png" width="30px" alt="Twitter"></a>
   &nbsp; 
   &nbsp;
