@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://google.com">Vitor</a></b>.
-    <br>I'm an undergraduate student in Software Engineering from Brazil.<br>
+    <br>I'm an undergraduate student in Analysis and systems development from Brazil.<br>
 
 </samp>
 
