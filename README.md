@@ -1,29 +1,93 @@
-### Hi there 👋
+![Profile](https://komarev.com/ghpvc/?username=larissaperinoto&color=955bfb&style=for-the-badge)
 
+  <a href="http://www.linkedin.com/in/victoradrelli" target="_blank"><img src="https://img.icons8.com/bubbles/100/null/linkedin.png" title="Linkedin" /></a> 
 
+<div>
 
-## 🌐 Redes sociais:
- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gawjloart) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/victorzwn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/victoradrelli)
+  🎯 Backend Developer.
+  🎞️ I really enjoy listening to music, watching old movies, practice yoga and travel. ✈️
 
-# 💻 Habilidades:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+</div>
 
-# 📊 GitHub Status:
-![](https://github-readme-stats.vercel.app/api?username=Gawjloart&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Gawjloart&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gawjloart&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trofeus
-![](https://github-profile-trophy.vercel.app/?username=AKSHOY-143&theme=radical&no-frame=false&no-bg=false&margin-w=4) ![](https://github-profile-trophy.vercel.app/?username=gawjloart&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
-## 🐦 Ultimo Post
-[![](https://gtce.itsvg.in/api?username=akshoy)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-
-
----
-[![](https://visitcount.itsvg.in/api?id=AKSHOY-143&icon=0&color=0)](https://visitcount.itsvg.in)
-
+### **Skills and technologies**
+  
+<div>
+  <div>
+    <img src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" width="20px" /> Code versioning
+  </div>
+  <div>
+    <img src="https://cdn-icons-png.flaticon.com/512/4727/4727486.png" width="20px" /> Agile methodologies: Scrum and Kanban
+  </div>
+   <div>
+    <img src="https://img.icons8.com/dusk/64/null/curly-brackets.png" width="20px"/> Object-oriented programming and SOLID principles
+  </div>
+</div>
+</br>
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  📝 **Main languages**  
+  <div>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg" alt="Typescript" height="20px"  />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" alt="Javascript" height="20px"   /> 
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" alt="NodeJS" height="20px"   />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" alt="Python" height="20px"   />
+  </div>
+
+  </br>
+  
+  🪛 **Frameworks and Tools**
+  
+  <div>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs2.svg" alt="NestJS" height="20px" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express2.svg" alt="ExpressJS" height="20px" />
+  <img src="https://img.shields.io/badge/adonis%20js-220052?style=for-the-badge&logo=adonisjs&logoColor=white" alt="AdonisJS" height="20px" />
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="20px" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask2.svg" alt="Flask" height="20px" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django2.svg" alt="Django" height="20px" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs2.svg" alt="Next" height="20px" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg" alt="Docker" height="20px" />
+  </div>
+
+  </br>
+
+ 🗂  **Databases, ORM and ODM** 
+  <div>
+   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg" alt="Postgres" height="20px"/>
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg" alt="MYSQL" height="20px"/>
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg" alt="MongoDB" height="20px"/>
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase2.svg" alt="Supabase" height="20px"/>
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sequelize/sequelize2.svg" alt="Sequelize" height="20px"/>
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeORM/typeorm2.svg" alt="TypeORM" height="20px"/>
+  </div>
+  
+</br>
+
+📏📐 **Tests**
+<div>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest2.svg" alt="Jest" height="20px" />
+  <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" alt="Mocha" height="20px" />
+  <img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" alt="Chai" height="20px" />
+</div>
+
+
+</br>
+
+🖇 **Others**
+<div>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" alt="HTML" height="20px" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" alt="CSS3" height="20px" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg" alt="React" height="20px" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss3.svg" alt="TailwindCSS" height="20px" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JWT/jwt2.svg" alt="JWT" height="20px" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=Swagger&logoColor=black" alt="Swagger" height="20px" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg" alt="Git" height="20px" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux3.svg" alt="Redux" height="20px" />
+</div>
+
+
+</br>
+
+<div>
+  <img height="200em" width="650em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=larissaperinoto&theme=vue">
+  <img height="180em" width="120em" src="https://media.tenor.com/-6m2vqRjKDEAAAAj/geek-girl.gif" />
+</div>
