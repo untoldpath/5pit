@@ -1,4 +1,5 @@
 ![Profile](https://komarev.com/ghpvc/?username=larissaperinoto&color=955bfb&style=for-the-badge)
+<img src="https://m3-markdown-badges.vercel.app/stars/1/1/<your-username>/<repo-name>">
 
   <a href="http://www.linkedin.com/in/victoradrelli" target="_blank"><img src="https://img.icons8.com/bubbles/100/null/linkedin.png" title="Linkedin" /></a> 
 
@@ -28,7 +29,7 @@
   📝 **Main languages**  
   <div>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg" alt="C++" height="20px"  />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C#/c#3.svg" alt="C++" height="20px"  />
+  <img src="https://camo.githubusercontent.com/f104c7ad0c9f417d511a02abd32eeba6b3eda6c65436a944616180b67181e2c2/68747470733a2f2f7a6961646f75612e6769746875622e696f2f6d332d4d61726b646f776e2d4261646765732f6261646765732f4353686172702f637368617270332e737667" alt="C#" height="20px"  />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" alt="Javascript" height="20px"   /> 
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" alt="NodeJS" height="20px"   />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" alt="Python" height="20px"   />
@@ -88,3 +89,7 @@
 
 </br>
 
+<div>
+  <img height="200em" width="650em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=larissaperinoto&theme=vue">
+  <img height="180em" width="120em" src="https://media.tenor.com/-6m2vqRjKDEAAAAj/geek-girl.gif" />
+</div>
