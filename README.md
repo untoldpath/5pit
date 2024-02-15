@@ -1,5 +1,4 @@
 ![Profile](https://komarev.com/ghpvc/?username=larissaperinoto&color=955bfb&style=for-the-badge)
-![Profile](https://m3-markdown-badges.vercel.app/stars/1/1/<your-username>/<repo-name>)
 
   <a href="http://www.linkedin.com/in/victoradrelli" target="_blank"><img src="https://img.icons8.com/bubbles/100/null/linkedin.png" title="Linkedin" /></a> 
 
