@@ -1,11 +1,12 @@
 ![Profile](https://komarev.com/ghpvc/?username=larissaperinoto&color=955bfb&style=for-the-badge)
+<img src="https://m3-markdown-badges.vercel.app/stars/1/1/<your-username>/<repo-name>">
 
   <a href="http://www.linkedin.com/in/victoradrelli" target="_blank"><img src="https://img.icons8.com/bubbles/100/null/linkedin.png" title="Linkedin" /></a> 
 
 <div>
 
   🎯 Backend Developer.
-  🎞️ I really enjoy listening to music, watching old movies, practice yoga and travel. ✈️
+  🎞️ I really enjoy playing on the computer and discovering flaws in applications and developing scripts to complement my gameplay.. ✈️
 
 </div>
 
@@ -27,7 +28,8 @@
   
   📝 **Main languages**  
   <div>
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg" alt="Typescript" height="20px"  />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg" alt="C++" height="20px"  />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C#/c#1.svg" alt="C#" height="20px"  />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" alt="Javascript" height="20px"   /> 
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" alt="NodeJS" height="20px"   />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" alt="Python" height="20px"   />
