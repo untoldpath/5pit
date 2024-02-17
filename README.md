@@ -4,8 +4,8 @@
 
 <div>
 
-  🎯 Desenvolvedor Backend.
-  🎞️ Eu realmente gosto de jogar no computador e descobrir falhas em aplicativos, desenvolvendo scripts para complementar minha jogabilidade. ✈️
+  🎯 Desenvolvedor Back-End.
+  🎞️ Eu  gosto de jogar no computador e descobrir falhas em aplicativos, desenvolvendo scripts para complementar minha jogabilidade. ✈️
 
 </div>
 
