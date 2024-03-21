@@ -1,6 +1,5 @@
 ![Perfil](https://komarev.com/ghpvc/?username=larissaperinoto&color=955bfb&style=for-the-badge)
 
-  <a href="http://www.linkedin.com/in/victoradrelli" target="_blank"><img src="https://img.icons8.com/bubbles/100/null/linkedin.png" title="Linkedin" /></a> 
 
 <div>
 
