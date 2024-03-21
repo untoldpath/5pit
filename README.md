@@ -4,7 +4,8 @@
 
 <div>
 
-  🎯 Desenvolvedor Back-End.
+  🎯 Desenvolvedor Back-End na [Ploomes](https://ploomes.com/).
+  
   🎞️ Eu  gosto de jogar no computador e descobrir falhas em aplicativos, desenvolvendo scripts para complementar minha jogabilidade. ✈️
 
 </div>
