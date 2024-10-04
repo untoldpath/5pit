@@ -28,7 +28,7 @@
   📝 **Principais Linguagens**  
   <div>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg" alt="C++" height="20px"  />
-  <img src="https://camo.githubusercontent.com/f104c7ad0c9f417d511a02abd32eeba6b3eda6c65436a944616180b67181e2c2/68747470733a2f2f7a6961646f75612e6769746875622e696f2f6d332d4d61726b646f776e2d4261646765732f6261646765732f4353686172702f637368617270332e737667" alt="C#" height="20px"  />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp2.svg" alt="C#" height="20px"  />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" alt="Javascript" height="20px"   /> 
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" alt="NodeJS" height="20px"   />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" alt="Python" height="20px"   />
