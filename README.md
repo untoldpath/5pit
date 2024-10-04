@@ -3,7 +3,7 @@
 
 <div>
 
-  🎯 Desenvolvedor Back-End na [Celcoin](https://celcoin.com.br/).
+  🎯 Desenvolvedor na [Guiando](https://guiando.com.br/).
   
   🎞️ Eu  gosto de jogar no computador e descobrir falhas em aplicativos, desenvolvendo scripts para complementar minha jogabilidade. ✈️
 
