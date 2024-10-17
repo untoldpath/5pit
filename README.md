@@ -3,7 +3,7 @@
 
 <div>
 
-  🎯 Desenvolvedor na [Guiando](https://guiando.com.br/).
+  🎯 Desenvolvedor Back-End na [Guiando](https://guiando.com.br/).
   
   🎞️ Eu  gosto de jogar no computador e descobrir falhas em aplicativos, desenvolvendo scripts para complementar minha jogabilidade. ✈️
 
