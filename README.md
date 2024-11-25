@@ -87,7 +87,3 @@
 
 
 </br>
-
-<div>
-  <img height="200em" width="650em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gawjloart&theme=vue">
-</div>
