@@ -1,11 +1,9 @@
 ![Perfil](https://komarev.com/ghpvc/?username=larissaperinoto&color=955bfb&style=for-the-badge)
 
-
 <div>
 
-  🎯 Desenvolvedor Fullstack na [Guiando](https://guiando.com.br/).
-  
-  🎞️ Eu  gosto de jogar no computador e descobrir falhas em aplicativos, desenvolvendo scripts para complementar minha jogabilidade. ✈️
+  🎯 Desenvolvedor Fullstack na [Guiando](https://guiando.com.br/).  
+  🎞️ Eu gosto de jogar no computador e descobrir falhas em aplicativos, desenvolvendo scripts para complementar minha jogabilidade. ✈️
 
 </div>
 
@@ -22,45 +20,46 @@
     <img src="https://img.icons8.com/dusk/64/null/curly-brackets.png" width="20px"/> Programação Orientada a Objetos e Princípios SOLID
   </div>
 </div>
+
 </br>
 
-  
-  📝 **Principais Linguagens**  
-  <div>
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg" alt="C++" height="20px"  />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp2.svg" alt="C#" height="20px"  />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" alt="Javascript" height="20px"   /> 
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" alt="NodeJS" height="20px"   />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" alt="Python" height="20px"   />
-  </div>
+📝 **Principais Linguagens**  
+<div>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg" alt="C++" height="20px" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp2.svg" alt="C#" height="20px" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Typescript/typescript2.svg" alt="TypeScript" height="20px" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" alt="Javascript" height="20px" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" alt="NodeJS" height="20px" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" alt="Python" height="20px" />
+</div>
 
-  </br>
-  
-  🪛 **Frameworks e Ferramentas**
-  
-  <div>
+</br>
+
+🪛 **Frameworks e Ferramentas**
+<div>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs2.svg" alt="NestJS" height="20px" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express2.svg" alt="ExpressJS" height="20px" />
   <img src="https://img.shields.io/badge/adonis%20js-220052?style=for-the-badge&logo=adonisjs&logoColor=white" alt="AdonisJS" height="20px" />
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="20px" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask2.svg" alt="Flask" height="20px" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django2.svg" alt="Django" height="20px" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs2.svg" alt="Next" height="20px" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Angular/angular2.svg" alt="Angular" height="20px" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs2.svg" alt="NextJS" height="20px" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg" alt="Docker" height="20px" />
-  </div>
+</div>
 
-  </br>
+</br>
 
- 🗂  **Bancos de Dados, ORM e ODM** 
-  <div>
-   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg" alt="Postgres" height="20px"/>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg" alt="MYSQL" height="20px"/>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg" alt="MongoDB" height="20px"/>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase2.svg" alt="Supabase" height="20px"/>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sequelize/sequelize2.svg" alt="Sequelize" height="20px"/>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeORM/typeorm2.svg" alt="TypeORM" height="20px"/>
-  </div>
-  
+🗂 **Bancos de Dados, ORM e ODM** 
+<div>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg" alt="Postgres" height="20px" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg" alt="MySQL" height="20px" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg" alt="MongoDB" height="20px" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase2.svg" alt="Supabase" height="20px" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sequelize/sequelize2.svg" alt="Sequelize" height="20px" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeORM/typeorm2.svg" alt="TypeORM" height="20px" />
+</div>
+
 </br>
 
 📏📐 **Testes**
@@ -69,7 +68,6 @@
   <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" alt="Mocha" height="20px" />
   <img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" alt="Chai" height="20px" />
 </div>
-
 
 </br>
 
@@ -84,6 +82,5 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg" alt="Git" height="20px" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux3.svg" alt="Redux" height="20px" />
 </div>
-
 
 </br>
