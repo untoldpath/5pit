@@ -3,15 +3,15 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=larissaperinoto&color=955bfb&style=for-the-badge" alt="Contador de Visitas"/>
+  <img src="https://komarev.com/ghpvc/?username=victoradrelli&color=955bfb&style=for-the-badge" alt="Contador de Visitas"/>
 </p>
 
 <div align="center">
   
-  <h1>Olá, eu sou a Larissa Perinoto! 👋</h1>
+  <h1>Olá, eu sou o Victor Adrelli! 👋</h1>
   
   <p>
-    🎯 <strong>Desenvolvedora Fullstack</strong> na <a href="https://guiando.com.br/"><strong>Guiando</strong></a>. <br/>
+    🎯 <strong>Desenvolvedor Fullstack</strong> na <a href="https://guiando.com.br/"><strong>Guiando</strong></a>. <br/>
     👨‍💻 Entusiasta de automação e análise de software. Gosto de explorar aplicações (e jogos! 🎮) em busca de falhas e criar scripts para otimizar a experiência. <br/>
     🌱 Atualmente me aprofundando em [Insira uma tecnologia que está estudando, ex: Arquitetura de Microsserviços, Rust, etc.].
   </p>
@@ -32,10 +32,10 @@
 <div align="center">
   <h2>📊 Minhas Estatísticas no GitHub</h2>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissaperinoto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=00000000&border_color=955bfb" alt="Estatísticas do GitHub"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victoradrelli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=00000000&border_color=955bfb" alt="Estatísticas do GitHub"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissaperinoto&layout=compact&langs_count=8&theme=dracula&bg_color=00000000&border_color=955bfb" alt="Top Linguagens"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoradrelli&layout=compact&langs_count=8&theme=dracula&bg_color=00000000&border_color=955bfb" alt="Top Linguagens"/>
   </a>
   </div>
 
@@ -48,11 +48,11 @@
   Programação Orientada a Objetos • Princípios SOLID • Metodologias Ágeis (Scrum, Kanban) • Controle de Versão (Git)
 </p>
 
-<h3>📝 Linguagens Principais</h3>
+<h3>📝 Linguagens Principais (ÍCONE TS CORRIGIDO)</h3>
 <p>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg" alt="C++" height="25px" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp2.svg" alt="C#" height="25px" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Typescript/typescript.svg" alt="TypeScript" height="25px" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="25px" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" alt="Javascript" height="25px" />  
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" alt="NodeJS" height="25px" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" alt="Python" height="25px" />
@@ -103,5 +103,5 @@
 
 <div align="center">
   <h3>🐍 Gráfico de Contribuição</h3>
-  <img src="https://github.com/larissaperinoto/larissaperinoto/raw/output/github-contribution-grid-snake.svg" alt="Contribuições">
+  <img src="https://github.com/victoradrelli/victoradrelli/raw/output/github-contribution-grid-snake.svg" alt="Contribuições">
 </div>
