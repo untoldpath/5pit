@@ -48,7 +48,7 @@
   Programação Orientada a Objetos • Princípios SOLID • Metodologias Ágeis (Scrum, Kanban) • Controle de Versão (Git)
 </p>
 
-<h3>📝 Linguagens Principais (ÍCONE TS CORRIGIDO)</h3>
+<h3>📝 Linguagens Principais</h3>
 <p>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg" alt="C++" height="25px" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp2.svg" alt="C#" height="25px" />
