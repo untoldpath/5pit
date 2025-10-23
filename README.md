@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=victoradrelli&color=955bfb&style=for-the-badge" alt="Contador de Visitas"/>
+  <img src="https://komarev.com/ghpvc/?username=untoldpath&color=955bfb&style=for-the-badge" alt="Contador de Visitas"/>
 </p>
 
 <div align="center">
@@ -33,11 +33,11 @@
   <h2>📊 Minhas Estatísticas no GitHub</h2>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victoradrelli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=00000000&border_color=955bfb" alt="Estatísticas do GitHub"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=untoldpath&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=00000000&border_color=955bfb" alt="Estatísticas do GitHub"/>
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoradrelli&layout=compact&langs_count=8&theme=dracula&bg_color=00000000&border_color=955bfb" alt="Top Linguagens"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=untoldpath&layout=compact&langs_count=8&theme=dracula&bg_color=00000000&border_color=955bfb" alt="Top Linguagens"/>
   </a>
 </div>
 
@@ -106,5 +106,5 @@
 
 <div align="center">
   <h3>🐍 Gráfico de Contribuição</h3>
-  <img src="https://github.com/victoradrelli/victoradrelli/raw/output/github-contribution-grid-snake.svg" alt="Contribuições">
+  <img src="https://github.com/untoldpath/untoldpath/raw/output/github-contribution-grid-snake.svg" alt="Contribuições">
 </div>
