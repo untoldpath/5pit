@@ -102,9 +102,3 @@
   <img src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=Swagger&logoColor=black" height="25px"/>
 </p>
 
----
-
-<div align="center">
-  <h3>🐍 Gráfico de Contribuição</h3>
-  <img src="https://github.com/untoldpath/untoldpath/raw/output/github-contribution-grid-snake.svg" alt="Contribuições">
-</div>
