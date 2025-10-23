@@ -13,15 +13,15 @@
   <p>
     🎯 <strong>Desenvolvedor Fullstack</strong> na <a href="https://guiando.com.br/"><strong>Guiando</strong></a>. <br/>
     👨‍💻 Entusiasta de automação e análise de software. Gosto de explorar aplicações (e jogos! 🎮) em busca de falhas e criar scripts para otimizar a experiência. <br/>
-    🌱 Atualmente me aprofundando em [Insira uma tecnologia que está estudando, ex: Arquitetura de Microsserviços, Rust, etc.].
+    🌱 Atualmente me especialisando em desenvolvimento Fullstack.
   </p>
   
   <h3>Conecte-se comigo:</h3>
   <p>
-    <a href="[SEU_LINK_DO_LINKEDIN]" target="_blank">
+    <a href="[https://www.linkedin.com/in/victoradrelli/]" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto:[SEU_EMAIL@gmail.com]" target="_blank">
+    <a href="mailto:[victoradrellicontato@gmail.com]" target="_blank">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
     </p>
@@ -103,5 +103,5 @@
 
 <div align="center">
   <h3>🐍 Gráfico de Contribuição</h3>
-  <img src="https://github.com/victoradrelli/victoradrelli/raw/output/github-contribution-grid-snake.svg" alt="Contribuições">
+  <img src="https://github.com/untoldpath/untoldpath/raw/output/github-contribution-grid-snake.svg" alt="Contribuições">
 </div>
